@@ -88,7 +88,7 @@ A pharmacy management web application designed to support medicine inventory, sa
 
 **Tech:** React · Vite · Tailwind CSS · Supabase
 
-🔗 <a href="https://rxpharmacy.netlify.app/" target="_blank">Live Demo</a>
+🔗 <a href="https://rxpharmacystore.netlify.app/" target="_blank">Live Demo</a>
 
 ---
 

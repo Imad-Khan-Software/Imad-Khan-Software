@@ -112,14 +112,50 @@ My goal is to become a strong software engineer by understanding programming con
 
 ---
 
+## 🎓 Education
+
+**BS Software Engineering** — *In Progress*
+
+Currently studying Software Engineering at UET Peshawar, Abbottabad Campus, while developing practical skills through personal and real-world web projects.
+
+---
+
+## 💼 Experience & Practical Work
+
+My practical experience comes primarily from building and deploying complete web applications:
+
+* Designed and deployed web applications for business, non-profit, education, and management use cases.
+* Built frontend and backend features using **React, Vite, Tailwind CSS, JavaScript, and Supabase**.
+* Worked through the complete development process including planning, UI development, database integration, testing, debugging, and deployment.
+* Continuously improving my development skills through hands-on projects and practical problem solving.
+
+---
+
+## 🧭 What I'm Looking For
+
+I'm actively looking for **internship or entry-level frontend/full-stack opportunities** where I can contribute to real products while continuing to grow as a software engineer.
+
+I'm particularly interested in opportunities involving **React, JavaScript, modern frontend development, and backend services such as Supabase**.
+
+---
+
+## 🤝 Soft Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Problem_Solving-black?style=flat-square" alt="Problem Solving" />
+  <img src="https://img.shields.io/badge/Self_Directed_Learning-black?style=flat-square" alt="Self Directed Learning" />
+  <img src="https://img.shields.io/badge/Attention_to_Detail-black?style=flat-square" alt="Attention to Detail" />
+  <img src="https://img.shields.io/badge/Client_Communication-black?style=flat-square" alt="Client Communication" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imad-Khan-Software&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="Imad Khan GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Khan-Software&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imad-Khan-Software&show_icons=true&theme=default&hide_border=true" alt="Imad Khan GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Khan-Software&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
-
-> ⚠️ **Note:** These stat cards use the free shared `github-readme-stats.vercel.app` demo service, which is frequently rate-limited and can show broken images. If they stop loading again, the most reliable fix is to deploy your own free instance on Vercel (fork the repo, add your GitHub token, deploy) and swap the URL above for your own — see the [github-readme-stats deployment guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 ---
 

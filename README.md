@@ -115,9 +115,11 @@ My goal is to become a strong software engineer by understanding programming con
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imad-Khan-Software&show_icons=true&theme=default&hide_border=true" alt="Imad Khan GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Khan-Software&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imad-Khan-Software&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="Imad Khan GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Khan-Software&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
+
+> ⚠️ **Note:** These stat cards use the free shared `github-readme-stats.vercel.app` demo service, which is frequently rate-limited and can show broken images. If they stop loading again, the most reliable fix is to deploy your own free instance on Vercel (fork the repo, add your GitHub token, deploy) and swap the URL above for your own — see the [github-readme-stats deployment guide](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own).
 
 ---
 

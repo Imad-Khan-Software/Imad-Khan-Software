@@ -1,24 +1,35 @@
 <h1 align="center">Hi there, I'm Imad Khan 👋</h1>
 
-<h3 align="center">BS Software Engineering Student & Frontend Developer</h3>
+<h3 align="center">
+BS Software Engineering Student & Frontend Developer
+</h3>
 
 <p align="center">
-  I build <b>responsive, user-friendly, and practical web applications</b>.
-  I am currently strengthening my <b>JavaScript</b> and <b>React</b> skills
-  through real-world projects using modern frontend technologies and backend services.
+Building responsive web applications and exploring modern frontend technologies.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/imad-khan-391b53387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/imad-khan-software/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Imad-Khan-Software">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://nexasolvetech.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-NexaSolve%20Tech-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BS Software Engineering student at **UET Peshawar, Abbottabad Campus**
+- 💻 Frontend Developer focused on modern web applications
+- 🚀 Building projects with **React, JavaScript, Tailwind CSS and Supabase**
+- 🌱 Continuously improving my programming and software engineering skills
+- 📊 Exploring **Data Analytics**
+- 💼 Interested in frontend and full-stack development opportunities
 
 ---
 
@@ -27,153 +38,118 @@
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ### Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌐 NexaSolve Tech
+### 🔥 NexaSolve Tech
 
-My flagship web development project and digital brand, showcasing my projects, services, skills, and client-focused web solutions.
+My flagship web development and portfolio project.
 
-**Tech:** React · Vite · Tailwind CSS · Supabase
+**Tech Stack:** React, Vite, Tailwind CSS, Supabase
 
-🔗 <a href="https://nexasolvetech.netlify.app/" target="_blank">Live Demo</a>
+Features include:
+
+- Modern responsive frontend
+- Client enquiry system
+- Project management
+- Admin dashboard
+- Supabase backend
+- Authentication
+- Messaging functionality
+- Analytics and visitor tracking
+
+🌐 **Live:** https://nexasolvetech.netlify.app/
+
+💻 **Repository:** https://github.com/Imad-Khan-Software/nexasolve-tech
 
 ---
 
-### 🤝 Ikhlaas Welfare Foundation
+### 🏥 Ikhlaas Welfare Foundation
 
-A responsive website for Ikhlaas Welfare Foundation, presenting its mission, activities, programs, and financial information.
+A responsive website for a welfare foundation.
 
-**Tech:** React · Vite · Tailwind CSS · Supabase
+**Tech Stack:** React, Vite, Tailwind CSS, Supabase
 
-🔗 <a href="https://ikhlaaswelfarefoundationnisatta.netlify.app/" target="_blank">Live Demo</a>
+Features include:
+
+- Public foundation website
+- Admin dashboard
+- Projects/content management
+- Feedback system
+- Financial reports
+- Responsive design
 
 ---
 
-### 🧪 Super Exam Hub
+### 📝 Super Exam Hub
 
-A web-based examination platform designed for online tests, question management, submissions, and result tracking.
+An online examination and test preparation platform.
 
-**Tech:** JavaScript · Supabase
+**Tech Stack:** JavaScript, HTML5, CSS3, Supabase
 
-🔗 <a href="https://superexamhub.netlify.app/" target="_blank">Live Demo</a>
+Features include:
+
+- Student dashboard
+- Admin dashboard
+- Authentication
+- Question management
+- Online examinations
+- Supabase database integration
 
 ---
 
 ### 💊 RxPharmacy
 
-A pharmacy management web application designed to support medicine inventory, sales, and day-to-day pharmacy operations.
+A pharmacy management and POS project.
 
-**Tech:** React · Vite · Tailwind CSS · Supabase
+**Tech Stack:** React, Vite, Tailwind CSS, Supabase
 
-🔗 <a href="https://rxpharmacystore.netlify.app/" target="_blank">Live Demo</a>
+Features include:
 
----
-
-## 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React_Hooks-black?style=flat-square" alt="React Hooks" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git_%26_GitHub-black?style=flat-square" alt="Git and GitHub" />
-  <img src="https://img.shields.io/badge/Supabase-black?style=flat-square" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Data_Analytics-black?style=flat-square" alt="Data Analytics" />
-</p>
+- Product management
+- Pharmacy inventory
+- Sales management
+- Responsive interface
+- Database integration
 
 ---
 
-## 🎯 My Goal
+## 🌱 Currently Learning
 
-My goal is to become a strong software engineer by understanding programming concepts deeply, building real-world applications, improving my problem-solving skills, and continuously learning modern technologies.
-
----
-
-## 🎓 Education
-
-**BS Software Engineering** — *In Progress*
-
-Currently studying Software Engineering at UET Peshawar, Abbottabad Campus, while developing practical skills through personal and real-world web projects.
-
----
-
-## 💼 Experience & Practical Work
-
-My practical experience comes primarily from building and deploying complete web applications:
-
-* Designed and deployed web applications for business, non-profit, education, and management use cases.
-* Built frontend and backend features using **React, Vite, Tailwind CSS, JavaScript, and Supabase**.
-* Worked through the complete development process including planning, UI development, database integration, testing, debugging, and deployment.
-* Continuously improving my development skills through hands-on projects and practical problem solving.
-
----
-
-## 🧭 What I'm Looking For
-
-I'm actively looking for **internship or entry-level frontend/full-stack opportunities** where I can contribute to real products while continuing to grow as a software engineer.
-
-I'm particularly interested in opportunities involving **React, JavaScript, modern frontend development, and backend services such as Supabase**.
-
----
-
-## 🤝 Soft Skills
-
-<p>
-  <img src="https://img.shields.io/badge/Problem_Solving-black?style=flat-square" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/Self_Directed_Learning-black?style=flat-square" alt="Self Directed Learning" />
-  <img src="https://img.shields.io/badge/Attention_to_Detail-black?style=flat-square" alt="Attention to Detail" />
-  <img src="https://img.shields.io/badge/Client_Communication-black?style=flat-square" alt="Client Communication" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imad-Khan-Software&show_icons=true&theme=default&hide_border=true" alt="Imad Khan GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad-Khan-Software&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p>
-  💻 <b>GitHub:</b>
-  <a href="https://github.com/Imad-Khan-Software">Imad-Khan-Software</a>
-  <br>
-  💼 <b>LinkedIn:</b>
-  <a href="https://www.linkedin.com/in/imad-khan-391b53387/">Imad Khan</a>
-  <br>
-  🌐 <b>Portfolio:</b>
-  <a href="https://nexasolvetech.netlify.app/">NexaSolve Tech</a>
-</p>
-
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+```text
+JavaScript
+    ↓
+React
+    ↓
+React Hooks & State Management
+    ↓
+Tailwind CSS
+    ↓
+Supabase
+    ↓
+Git & GitHub
+    ↓
+Data Analytics
